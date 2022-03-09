@@ -15,7 +15,6 @@ Run
 ### ` ` `
 # Screenshots :
 ![capture](![image](![image](![image](https://user-images.githubusercontent.com/94483858/157551640-dd4e51ec-2518-4ad2-bacf-c326bece5820.png)
-)
 
 * Termux on andriod (tor connected if use vpn )
 
