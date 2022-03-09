@@ -14,7 +14,8 @@ Run
 ./SocialBox.sh
 ### ` ` `
 # Screenshots :
-![capture](![image](![image](![image](https://user-images.githubusercontent.com/94483858/157551032-f6afea0d-1a1f-4849-9d5c-ff6bbe4d4f69.png))
+![capture](![image](![image](![image](![image](https://user-images.githubusercontent.com/94483858/157551145-ffc6006a-db86-4a28-a3a8-38df96e05f67.png)
+)
 
 * Termux on andriod (tor connected if use vpn )
 
