@@ -4,7 +4,7 @@ SocialBox is a Bruteforce Attack Framework [ Facebook , Gmail , Instagram ,Twitt
 ### ` ` `
 ### apt-get update
 ### apt-get install git
-### git clone https://github.com/samsesh/SocialBox-Termux.git 
+### git clone https://github.com/ahgaurel1/SocialBox-Hwking.git 
 ### cd SocialBox-Termux
 ### chmod +x install-sb.sh
 ### ./install-sb.sh
@@ -18,5 +18,4 @@ Run
 
 * Termux on andriod (tor connected if use vpn )
 
-### Authors: ahgaurel1
-Instagram: _.aurel_vllahi
+### Author: ahgaurel1
